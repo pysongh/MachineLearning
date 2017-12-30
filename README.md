@@ -1,5 +1,5 @@
 # MachineLearning
-Example codes for Machine Learning
+Example codes for Machine Learnng
 
 ML01 Naive Bayes
 - Probability concept for ML
@@ -29,4 +29,5 @@ ML04 Neural Network
 - Mean Square Error for Cost(loss or Error) function 
 - Optimizing by Gradient Descent(No Learning rate)
 - With Numpy
+- Slideshare : https://www.slideshare.net/ssuser5f90ec/python-machine-learning-ml04-artificial-neural-network (Korean)
  
