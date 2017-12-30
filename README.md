@@ -21,6 +21,6 @@ ML03 SVM (Support Vector Machine)
 ML04 Neural Network
 - Back propagation(Chain rule)
 - Mean Square Error for Cost(loss or Error) function 
-- Optimizing by Gradient Descent(Learning rate)
+- Optimizing by Gradient Descent(No Learning rate)
 - With Numpy
  
